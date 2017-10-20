@@ -311,6 +311,7 @@
 				CE924A341F82F6CB00CC4881 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
